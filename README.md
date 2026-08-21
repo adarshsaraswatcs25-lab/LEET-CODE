@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
