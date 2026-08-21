@@ -6,21 +6,20 @@ class Solution {
         int k = 0;
         
         for (int i = 0; i < nums1.length; i++) {
+            
             arr[k++] = nums1[i];
         }
+            for(int i =0;i<nums2.length;i++){
+                arr[k++] = nums2[i];
+            }
+       Arrays.sort(arr);
+       int n = arr.length;
+       if(n % 2 == 1){
+        return arr[n / 2];
+       }
+       else  {
+        return (arr[n /2 -1 ] +arr[n/2]) /2.00;
+       }
         
-        for (int i = 0; i < nums2.length; i++) {
-            arr[k++] = nums2[i];
-        }
-        
-        Arrays.sort(arr);
-        
-        int n = arr.length;
-        
-        if (n % 2 == 1) {
-            return arr[n / 2];
-        } else {
-            return (arr[n / 2 - 1] + arr[n / 2]) / 2.0;
-        }
     }
 }
