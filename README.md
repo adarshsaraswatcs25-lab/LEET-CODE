@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1137-n-th-tribonacci-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
