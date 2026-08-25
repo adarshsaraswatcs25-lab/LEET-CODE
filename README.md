@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1518-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
