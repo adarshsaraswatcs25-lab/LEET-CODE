@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0056-merge-intervals) |
+| [0643-maximum-average-subarray-i](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
