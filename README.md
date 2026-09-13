@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0011-container-with-most-water) |
+| [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -72,14 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
