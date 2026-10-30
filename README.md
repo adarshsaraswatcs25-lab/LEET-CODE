@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0077-combinations) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
