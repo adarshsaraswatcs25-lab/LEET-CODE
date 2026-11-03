@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1518-water-bottles) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
