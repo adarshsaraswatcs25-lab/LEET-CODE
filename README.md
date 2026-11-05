@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
