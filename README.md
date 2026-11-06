@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/2747-count-zero-request-servers) |
 ## Quicksort
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [2747-count-zero-request-servers](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/2747-count-zero-request-servers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
+| [2747-count-zero-request-servers](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
