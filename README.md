@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adarshsaraswatcs25-lab/LEET-CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
